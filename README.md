@@ -1,6 +1,6 @@
 # PyRoulette
 
-PyRoulette is a Python-based GUI application that simulates a roulette wheel. It allows users to add elements, spin the roulette, and provides a clickable link to the GitHub repository.
+PyRoulette is a Python-based GUI application that simulates a roulette wheel. It allows users to add elements, spin the roulette, and get the result in seconds.
 
 ## Description
 
